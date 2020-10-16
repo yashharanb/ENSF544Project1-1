@@ -411,3 +411,6 @@ Sessionx.vim
 tags
 # Persistent undo
 [._]*.un~
+
+
+.ipynb_checkpoints
